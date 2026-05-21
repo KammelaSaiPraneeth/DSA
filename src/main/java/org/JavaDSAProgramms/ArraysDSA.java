@@ -1,4 +1,4 @@
-package JavaDSAProgramms;
+package org.JavaDSAProgramms;
 
 import java.util.*;
 
